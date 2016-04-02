@@ -18,6 +18,7 @@
 *.so.*
 *.swp
 *.ver
+*.tags
 *-example
 *-test
 *_g
